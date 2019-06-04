@@ -2,6 +2,8 @@
 
 A very simple addon to [FlapPyBird](https://github.com/sourabhv/FlapPyBird) that adds eye blinking to controller the bird.
 
+![demo gif](https://raw.githubusercontent.com/Lucisu/BlinkBird/master/game.gif)
+
 ### Installation
 
 Follow [How-To](https://github.com/sourabhv/FlapPyBird#how-to-as-tested-on-macos) from @sourabhv, and this addtional steps:

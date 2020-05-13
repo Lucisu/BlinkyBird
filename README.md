@@ -1,4 +1,4 @@
-## BlinkBird
+## BlinkyBird
 
 A very simple addon to [FlapPyBird](https://github.com/sourabhv/FlapPyBird) that adds eye blinking to controller the bird.
 
